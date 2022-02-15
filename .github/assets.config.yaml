@@ -67,4 +67,5 @@ validators_settings:
       - "logo.png"
 
   dapps_folder:
-    ext: ".png"
+    ext: ".png
+
